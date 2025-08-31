@@ -63,7 +63,6 @@ a {
 
 /* -------------HEADER--------------- */
 
-
 /* -----------------MAIN-HERO------------ */
 
 .main-hero {
@@ -97,7 +96,6 @@ a {
 
 /* -----------------MAIN-HERO------------ */
 
-
 /* -----------------MAIN-ITEM---------------- */
 .main-info {
 }
@@ -124,7 +122,6 @@ a {
 }
 
 /* -----------------MAIN-ITEM---------------- */
-
 
 /* -----------------MAIN-TEAM---------------- */
 .main-team {
@@ -170,6 +167,47 @@ a {
 
 /* -----------------MAIN-TEAM----------------- */
 
+/* -----------------MAIN-PORTFOLIO----------------- */
+
+.main-portfolio {
+}
+
+.main-portfolio-title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+  text-transform: capitalize;
+}
+
+.main-portfolio-list {
+}
+
+.main-portfolio-item {
+  background-color: #fff;
+}
+
+.main-portfolio-img {
+}
+
+.main-portfolio-subtitle {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.main-portfolio-text {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+/* -----------------MAIN-PORTFOLIO----------------- */
 
 /* -----------------FOOTER-------------------- */
 
