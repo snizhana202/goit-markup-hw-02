@@ -11,19 +11,16 @@ a {
   text-decoration: none;
 }
 
-
 .visually-hidden {
   position: absolute;
   margin: -1px;
   border: 0;
-  
+
   white-space: nowrap;
   clip-path: inset(100%);
   clip: rect(0 0 0 0);
   overflow: hidden;
 }
-
-
 
 /* -------------HEADER--------------- */
 
@@ -67,10 +64,7 @@ a {
   color: #404bbf;
 }
 
-
 /* -------------HEADER--------------- */
-
-
 
 .main-hero {
   background-color: #2e2f42;
@@ -98,8 +92,12 @@ a {
   cursor: pointer;
 }
 
-/* -----------------MAIN-HERO------------ */
+.main-button:hover,
+.main-button:focus {
+  background-color: #404bbf;s
+}
 
+/* -----------------MAIN-HERO------------ */
 
 .main-info {
 }
@@ -125,10 +123,7 @@ a {
   color: #434455;
 }
 
-
 /* -----------------MAIN-ITEM---------------- */
-
-
 
 .main-team {
   background-color: #f4f4fd;
@@ -141,6 +136,7 @@ a {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  text-transform: capitalizes;
 }
 
 .main-team-list {
@@ -173,10 +169,7 @@ a {
   color: #434455;
 }
 
-
 /* -----------------MAIN-TEAM----------------- */
-
-
 
 .footer {
   background-color: #2e2f42;
@@ -190,8 +183,8 @@ a {
 }
 
 .footer-text {
-font-size: 16px;
-line-height: 1.5;
-letter-spacing: 0.02em;
-color: #f4f4fd;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
 }
