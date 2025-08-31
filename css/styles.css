@@ -13,7 +13,6 @@ a {
 
 .visually-hidden {
   margin: -1px;
-  border: 0;
   white-space: nowrap;
   clip-path: inset(100%);
   clip: rect(0 0 0 0);
@@ -76,6 +75,7 @@ a {
   text-align: center;
   color: #fff;
 }
+
 .main-button {
   background-color: #4d5ae5;
   font-family: inherit;
