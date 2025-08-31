@@ -77,9 +77,8 @@ a {
 
 .main-hero {
   background-color: #2e2f42;
-  width: 1440px;
-  height: 600px;
 }
+
 .main-title {
   font-weight: 700;
   font-size: 56px;
@@ -92,8 +91,6 @@ a {
   border-radius: 4px;
   padding-block: 16px;
   padding-inline: 32px;
-  width: 169px;
-  height: 56px;
   background-color: #4d5ae5;
   font-family: inherit;
   font-weight: 500;
@@ -156,13 +153,10 @@ a {
   border-radius: 0 0 4px 4px;
   padding-block: 0px 32px;
   padding-inline: 0px;
-  width: 264px;
-  height: 380px;
   background-color: #fff;
 }
 
 .main-team-img {
-  width="264" height="260"
 }
 
 .main-team-subtitle {
@@ -189,8 +183,6 @@ a {
 
 .footer {
   background-color: #2e2f42;
-  width: 1440px;
-height: 312px;
 }
 
 .footer-logo {
